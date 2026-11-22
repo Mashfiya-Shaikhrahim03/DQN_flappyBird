@@ -1,0 +1,7 @@
+
+numpy
+torch
+gymnasium
+flappy-bird-gymnasium
+pyyaml
+tensorboard

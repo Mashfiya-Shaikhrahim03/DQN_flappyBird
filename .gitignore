@@ -1,0 +1,28 @@
+
+# Virtual environment
+flappybird/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Training logs
+*.log
+runs/
+
+# Trained model checkpoints
+*.pt
+*.pth
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
